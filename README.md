@@ -27,5 +27,8 @@ they hit? <br></li>
   1. This dataset had a few NaN that needed to be corrected. <br>
   2. I built a correlation matrix to view the correlation between continous variables. <br>
   
-  <img style="width:400px;height:300px" pglr-uri="C:\Users\Aaron Mobley\Pictures\Screenshots\MLB corr.png" />
+  <img
+   src="C:\Users\Aaron Mobley\Desktop\MLBcorr2.jpg"
+   alt= "A correlation matrix"    
+       />
 
