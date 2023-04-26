@@ -29,5 +29,12 @@ they hit? <br></li>
   
   
   <p>
-    <img src="C:\Users\Aaron Mobley\Pictures\Screenshots\MLB corr.png" width="220" height="240" />
+    <img src="C:\Users\Aaron Mobley\Desktop\MLB_data_project\MLBcorr2.jpg" width="700" height="350" />
 </p>
+
+  <ul style="list-style-type:disc;">
+    <li>Hard Hit Percentage and Average EV as well as Fly Ball/Line Drive and Average EV had some of <br>
+      the highest correlation
+      
+ # Statistical Modeling      
+      1. Stepwsie Regression Model in R - Hybrid
