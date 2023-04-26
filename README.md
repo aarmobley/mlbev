@@ -22,13 +22,10 @@ they hit? <br></li>
 <b>Tableau<b>  
 
 
-# Data Exploration
+# Data Exploration 🔭
   
   1. This dataset had a few NaN that needed to be corrected. <br>
   2. I built a correlation matrix to view the correlation between continous variables. <br>
   
-  <img
-   src="C:\Users\Aaron Mobley\Desktop\MLBcorr2.jpg"
-   alt= "A correlation matrix"    
-       />
+  ![Screenshot a correlation matrix from spyder.](C:\Users\Aaron Mobley\Desktop\MLBcorr2.jpg)
 
