@@ -10,8 +10,8 @@ https://github.com/aarmobley/mlbev/blob/main/MLBcorr.png
 <ul style="list-style-type:disc;">
   <li>Looked at 1,794 players from 2015-2017 to find out what stat is most important in determing max distance <br>
 and average exit velocity. <br></li>
-  <li>What could scouts use to predict how far a player can hit a baseball and ultimatley determine how many home runs <br>
-they hit? <br></li>
+  <li>What could MLB scouts use to predict how far a player can hit a baseball and ultimatley project how many home runs <br>
+they could hit? <br></li>
   <li>Started with Top 10 in average exit velocity for each year 2015-2022 </li>
 </ul>  
 
@@ -46,3 +46,5 @@ they hit? <br></li>
           >A combination, testing at each step for variables to be included or excluded 
       2. Final model concluded that batted ball events, launch angle, max exit velocity, 
           hard hit percentage and average exit velocity are the top 5 major influencers in max distance
+      
+
