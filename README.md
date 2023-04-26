@@ -37,4 +37,7 @@ they hit? <br></li>
       the highest correlation
       
  # Statistical Modeling      
-      1. Stepwsie Regression Model in R - Hybrid
+      1. Stepwsie Regression Model in R - Hybrid 
+          >A combination, testing at each step for variables to be included or excluded 
+      2. Final model concluded that batted ball events, launch angle, max exit velocity, 
+          hard hit percentage and average exit velocity are the top 5 major influencers in max distance
