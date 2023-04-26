@@ -13,6 +13,8 @@ they hit? <br></li>
   <li>Started with Top 10 in average exit velocity for each year 2015-2022 </li>
 </ul>  
 
+<a href = "https://public.tableau.com/app/profile/aaron.mobley/viz/AverageEXVeloMLBDash/Dashboard2" > Tableau <a/> <br>
+
 <a href = "https://www.kaggle.com/datasets/mattop/mlb-batting-exit-velocity-data-2015-2022" > MLBDataset </a> <br>
 
 # Code and Resources
