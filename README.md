@@ -3,6 +3,8 @@
   <img src="https://sportslogosvg.com/wp-content/uploads/2020/09/mlb.png" width="750"/>
 </div>
 
+
+https://github.com/aarmobley/mlbev/blob/main/MLBcorr.png
 # Summary
 
 <ul style="list-style-type:disc;">
@@ -28,11 +30,12 @@ they hit? <br></li>
   
   1. This dataset had a few NaN that needed to be corrected. <br>
   2. I built a correlation matrix to view the correlation between continous variables. <br>
+  <div id="header" align="center">
+  
+  <img src="https://github.com/aarmobley/mlbev/blob/main/MLBcorr.png" width="850"/>
+</div>
   
   
-  <p>
-    <img src="C:\Users\Aaron Mobley\Desktop\MLB_data_project\MLBcorr2.jpg" width="700" height="350" />
-</p>
 
   <ul style="list-style-type:disc;">
     <li>Hard Hit Percentage and Average EV as well as Fly Ball/Line Drive and Average EV had some of <br>
