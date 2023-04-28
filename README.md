@@ -4,7 +4,6 @@
 </div>
 
 
-https://github.com/aarmobley/mlbev/blob/main/MLBcorr.png
 # Summary
 
 <ul style="list-style-type:disc;">
@@ -13,7 +12,7 @@ and average exit velocity. <br></li>
   <li>What could MLB scouts use to predict how far a player can hit a baseball and ultimatley project how many home runs <br>
 they could hit? <br></li>
   <li>Started with comparing the Top 10 in average exit velocity for each year 2015-2022 </li>
-  <li>Does the average Exit Velocity increase from 2015 to 2022?
+  <li>Did the top 10 players average Exit Velocity increase from 2015 to 2022?
 </ul>  
 
 <a href = "https://public.tableau.com/app/profile/aaron.mobley/viz/AverageEXVeloMLBDash/Dashboard2" > Tableau <a/> <br>
