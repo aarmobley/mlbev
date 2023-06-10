@@ -7,8 +7,8 @@
 # Summary
 
 <ul style="list-style-type:disc;">
-  <li>Looked at 1,794 players from 2015-2017 to find out what stat is most important in determing max distance <br>
-and average exit velocity. <br></li>
+  <li>Looked at 1,794 players from 2015-2017 to find out what exit velocity stat is most important in determining max distance <br>
+of a homerun. <br></li>
   <li>What could MLB scouts use to predict how far a player can hit a baseball and ultimatley project how many home runs <br>
 they could hit? <br></li>
   <li>Started with comparing the Top 10 in average exit velocity for each year 2015-2022 </li>
